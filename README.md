@@ -1,6 +1,5 @@
 # Market
 
-A trading market that can be hosted and accessed from both Java and C# servers and clients.  
 A socket-based client-server system to trade a single stock in a simple stock market.  
 Each client application is a trader.  
 Once a trader obtains the stock, it prompts the user whom to give it to.  
